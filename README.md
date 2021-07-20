@@ -19,6 +19,9 @@ Table warga database sistem kas <p>
   Data Berhasil Ditambahkan <p>
   
   ![image](https://user-images.githubusercontent.com/81542329/126348136-e38b01cc-18e8-4cce-b01f-c3fd1bde307f.png) <p>
+  
+  Untuk bagian iuran masih banyak bug/error. Mohon maaf sebelumnya pak. Saat ini saya sedang mencari cara untuk mencari letak error nya
+  jika bapak berkenan,saya minta waktunya lagi pak. Terimakasih. Mohon maaf sebelumnya pak <p>
 
 
 
